@@ -1,0 +1,3 @@
+$WebBlocks-grid-panels:         12 !default;
+$WebBlocks-grid-panel-gutter:   2.5641% !default;
+$WebBlocks-grid-panel-width:    ((100% - ($WebBlocks-grid-panels - 1) * $WebBlocks-grid-panel-gutter) / $WebBlocks-grid-panels) !default;

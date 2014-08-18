@@ -1,0 +1,7 @@
+{
+  "name": "WebBlocks-grid",
+  "version": "1.0.0",
+  "dependencies": {
+    "WebBlocks-breakpoints": "WebBlocks/block-breakpoints"
+  }
+}
